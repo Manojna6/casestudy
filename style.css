@@ -1,0 +1,21 @@
+body{
+    background-color: #B1959E;
+    color: #FFFFFF;
+    font-family: 'Nothing You Could Do', cursive;
+}
+h1{
+    color:black;
+}
+hr{
+    color:black;
+}
+#case1, #case2, #case3, #case4, #case5{
+    background-color: black;
+    border-radius: 20px;
+}
+li{
+    color:black;
+}
+img{
+    width: 30%;
+}
